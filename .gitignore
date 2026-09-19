@@ -1,0 +1,7 @@
+.idea/
+media/
+bot_database.db
+user_actions.log
+__pycache__/
+*.log
+.DS_Store
